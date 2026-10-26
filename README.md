@@ -1,26 +1,33 @@
-<h1 align="center">Hi 👋, I'm Abhishek Mishra</h1>
-<h3 align="center">A passionate Java Backend Developer & DevOps Enthusiast from India</h3>
+ <h1 align="center">Hi 👋, I'm Abhishek Mishra</h1>
+<h3 align="center">A passionate Testing (QA) & DevOps Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekmishra69&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekmishra69" /> </p>
 
-- 🔭 I’m currently working on **Cloud-Native Java Applications & DevOps Projects**
+- 🔭 I’m currently working on **Software Testing, QA Projects & DevOps Projects**
 
-- 🌱 I’m currently learning **AWS • Docker • Kubernetes • Jenkins • Terraform • Linux • GitHub Actions • DevOps • System Design**
+- 🌱 I’m currently learning **Manual Testing • Software Testing Life Cycle (STLC) • Software Development Life Cycle (SDLC) • Test Case Design • Bug Reporting • API Testing • SQL • AWS • Docker • Kubernetes • Jenkins • Linux**
 
-- 👯 I’m looking to collaborate on **Open Source Java, Spring Boot, DevOps and Cloud Projects**
+- 👯 I’m looking to collaborate on **Open Source QA, Software Testing, DevOps and Cloud Projects**
 
-- 🤝 I’m looking for help with **Kubernetes, Terraform, CI/CD Best Practices and Production Deployments**
+- 🤝 I’m looking for help with **Automation Testing, Selenium, API Testing, CI/CD Best Practices and Production Deployments**
 
-- 💬 Ask me about **Java • Spring Boot • REST APIs • SQL • Git • Docker • Linux • AWS • DevOps • CI/CD**
+- 💬 Ask me about **Manual Testing • Test Cases • Test Scenarios • Bug Life Cycle • STLC • SDLC • Java • SQL • Git • Docker • Linux • AWS • DevOps • CI/CD**
 
 - 📫 How to reach me **Abhishekmishra.it@outlook.com**
 
-- ⚡ Fun fact **I love turning ideas into scalable applications and automating everything I can.**
+- ⚡ Fun fact **I love finding bugs, improving software quality, and automating everything I can.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/_abhishekmishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_abhishekmishra" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abhishekit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhishekit" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Testing Skills & Tools:</h3>
+<p align="left">
+<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/></a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
